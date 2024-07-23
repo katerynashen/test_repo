@@ -1,0 +1,41 @@
+#header, #footer{
+   background-image: linear-gradient(#FFDFD6, #E3A5C7, #B692C2);
+   color: #694F8E;
+}
+
+#main_photo{
+    border-radius: 50%;
+}
+
+
+#education, #info, #header{
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.education1{
+    background-color: #F8EDED;
+    padding-bottom: 30px;
+}
+
+.carousel-item{
+    width: 500px;
+    height: 500px;
+}
+
+.navigation{
+    background-color: #FFDFD6;
+}
+
+.modal button{
+    background-color: #694F8E;
+}
+
+.modal #footer{
+    background-image: linear-gradient(#FFDFD6, #E3A5C7, #B692C2);
+}
+
+.modal a{
+    text-decoration: none;
+    color: white;
+}
